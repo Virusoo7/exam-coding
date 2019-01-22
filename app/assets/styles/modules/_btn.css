@@ -1,0 +1,15 @@
+.btn {
+	background-color: $mainBlue;
+	color: #fff;
+	text-decoration: none;
+	padding: 0.8rem 1.3rem;
+	display: inline-block;
+
+	&--orange {
+		background-color: $mainOrange;
+	}
+	&--large {
+		font-size: 1.1rem;
+		padding: 1rem 2.1rem;
+	}
+}
